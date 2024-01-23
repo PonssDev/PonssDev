@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **alanponstrabajo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QgAQMmlLEKEUKp9eoSD73Cl_aeiv_h2R/view?usp=sharing](https://drive.google.com/file/d/1QgAQMmlLEKEUKp9eoSD73Cl_aeiv_h2R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
