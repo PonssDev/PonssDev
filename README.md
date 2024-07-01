@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pons</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning **Angular (Im working on it), courses etc.**
 
 - 📫 How to reach me **alanponstrabajo@gmail.com**
 
