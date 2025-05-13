@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Pons</h1>
 <h3 align="center">Soy desarrolladro Angular en España</h3>
 
-- 🌱 Actualmente estoy trabajando como desarrollador Angular para una empresa**
+- 🌱 +1 año de experiencia en Angular**
 
 - 📫 Contacta conmigo en **alanponstrabajo@gmail.com**
 
